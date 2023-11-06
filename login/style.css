@@ -1,11 +1,3 @@
-:root {
-    font-family: Nunito;
-}
-
-body {
-    background-color: #FF8A00;
-}
-
 input {
     border-radius: 5px;
     border-color: #FF8A00;
@@ -29,13 +21,6 @@ button {
 
 .welcomeTitle {
     text-align: center;
-}
-
-.centralize {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
 }
 
 .icon {
